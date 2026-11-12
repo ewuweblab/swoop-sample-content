@@ -9,11 +9,12 @@ Swoop’s character was created on September 29, 1973, as the first mascot of EW
 file `swoop.jpg`
 
 ## Links
-- [EWU Athletics on Instagram](https://www.instagram.com/ewuathletics/)
-- [EWU Athletics on X / Twitter](https://x.com/EWUAthletics)
-- [EWU Athletics on Facebook](https://www.facebook.com/EWUAthletics)
-- [EWU Athletics on YouTube](https://www.youtube.com/@EWUAthletics)
-- [Swoop bio & appearance requests (GoEags.com)](https://goeags.com/sports/2016/1/6/swoop)
+- [Instagram](https://www.instagram.com/ewuathletics/)
+- [Twitter](https://x.com/EWUAthletics)
+- [Facebook](https://www.facebook.com/EWUAthletics)
+- [YouTube](https://www.youtube.com/@EWUAthletics)
+- [Go Eags!](https://goeags.com/sports/2016/1/6/swoop)
+- [Email](mailto:athletics@ewu.edu)
 
 ## Favicon
 file `favicon.svg`
